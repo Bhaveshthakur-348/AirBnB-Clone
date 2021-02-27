@@ -1,0 +1,32 @@
+npm install @material-ui/core   for search icons
+npm install @material-ui/icons
+---------------------------
+//Date-picker
+npm i react-date-range
+npm i date-fns
+---------------------------
+
+after completed footer
+--------------------------
+setup react rooter
+
+npm i react-router-dom
+
+-----------------------------
+deploy firebase
+
+firebase init
+
+sudo npm install -g firebase-tools
+
+firebase login
+
+firebase init
+then select : Hoisting
+existing proj
+public directory? build
+y
+
+Run : npm run build
+
+firebase deploy
